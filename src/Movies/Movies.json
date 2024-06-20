@@ -1,0 +1,177 @@
+[
+    {
+        "id": 123,
+        "name": "Vingadores ultimato",
+        "description": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.",
+        "photo": "https://i.imgur.com/1NmRaqH.jpg",
+        "genero": "acao",
+        "like": 10
+    },
+    {
+        "id": 245,
+        "name": "Shazam",
+        "description": "A história segue Billy Batson, um adolescente de 14 anos que leva sua vida normalmente como qualquer garoto da sua idade até que, de repente, um antigo mago chamado Shazam lhe dá o dom de poder se transformar em um super-herói adulto que leva o mesmo nome que ele.",
+        "photo": "https://i.imgur.com/UZdKxBg.jpg",
+        "genero": "acao",
+        "like": 18
+    },
+    {
+        "id": 541,
+        "name": "Shazam - Fury of the gods",
+        "description": "ostra o herói e seus irmãos lutando contra as Filhas de Atlas, que retornam em busca de seus poderes. Héspera e Kalypso estão atrás do herói acusando-o de ter roubado o poder de todos os deuses.",
+        "photo": "https://i.imgur.com/HsGaQNV.jpg",
+        "genero": "acao",
+        "like": 8
+    },
+    {
+        "id": 148,
+        "name": "A Múmia",
+        "description": "Em A Múmia, Um grupo americano de arqueólogos encabeçado pelo personagemd de Cruise acaba ressuscitando uma múmia amaldiçoada (Boutella), dando início a uma corrida contra o tempo que acaba por envolver o misterioso Dr. Jekyll (Crowe).",
+        "photo": "https://i.imgur.com/Rn8Fe59.jpg",
+        "genero": "acao",
+        "like": 11
+    },
+    {
+        "id": 820,
+        "name": "Circulo de fogo",
+        "description": " Quando várias criaturas monstruosas, os Kaiju, começam a emergir do mar, tem início uma batalha entre estes seres e os humanos. Para combatê-los, a humanidade desenvolve uma série de robôs gigantescos, os Jaegers, cada um controlado por duas pessoas por meio de uma conexão neural.",
+        "photo": "https://i.imgur.com/gtqK0X1.jpg",
+        "genero": "acao",
+        "like": 11
+    },
+    {
+        "id": 472,
+        "name": "Megan",
+        "description": " 'M3GAN' segue Gemma, uma brilhante roboticista de uma empresa de brinquedos que usa inteligência artificial para desenvolver uma boneca realista programada para ser a maior companheira de uma criança e a maior aliada dos pais.",
+        "photo": "https://i.imgur.com/CtiljOP.jpg",
+        "genero": "terror"
+    },
+    {
+        "id": 175,
+        "name": "Logan",
+        "description": "Num futuro próximo, Logan (Hugh Jackman) está aposentado e cansado de lutar. Ele se esconde na fronteira com o México e cuida do Professor Xavier (Patrick Stewart), que está muito doente. Mas Logan se vê obrigado a voltar a luta quando encontra a jovem mutante X-23 e se vê perseguido pelos mercenários Carniceiros.",
+        "photo": "https://i.imgur.com/76NhvT0.jpg",
+        "genero": "acao",
+        "like": 21
+    },
+    {
+        "id": 456,
+        "name": "Pica-pau",
+        "description": "A comédia mostra uma guerra de território entre o pássaro e o vigarista Lance Walters e sua namorada, que estão determinados a construir a casa de seus sonhos, mas para isso têm que derrubar a casa do travesso personagem.",
+        "photo": "https://i.imgur.com/ke6SUWb.jpg",
+        "genero": "comedia",
+        "like": 4
+    },
+    {
+        "id": 842,
+        "name": "Aladdin",
+        "description": "Aladdin (Mena Massoud) é um jovem ladrão que vive de pequenos roubos em Agrabah. Um dia, ele ajuda uma jovem a recuperar um valioso bracelete, sem saber que ela na verdade é a princesa Jasmine (Naomi Scott). Aladdin logo fica interessado nela, que diz ser a criada da princesa.",
+        "photo": "https://i.imgur.com/oINlmgB.jpg",
+        "genero": "romance",
+        "like": 9
+    },
+    {
+        "id": 324,
+        "name": "Pequena Sereia",
+        "description": "A história acompanha Ariel, uma sereia princesa de apenas dezesseis anos de idade, filha caçula do Rei Tritão. Ela está muito insatisfeita com a vida no fundo do mar, e deseja caminhar entre os humanos para saber mais sobre como é o mundo na terra.",
+        "photo": "https://i.imgur.com/68f2lki.jpg",
+        "genero": "aventura",
+        "like": 5
+    },
+    {
+        "id": 201,
+        "name": "Como se fosse a primeira vez",
+        "description": "O filme “Como Se Fosse A Primeira Vez” é uma comédia romântica que conta a história de Lucy Whitmore, interpretada por Drew Barrymore. Lucy sofre de um tipo de amnésia anterógrada, o que significa que ela esquece tudo o que aconteceu no dia anterior enquanto dorme. Todos os dias são um recomeço para ela.",
+        "photo": "https://i.imgur.com/x1pqEep.jpg",
+        "genero": "romance",
+        "like": 14
+    },
+    {
+        "id": 498,
+        "name": "Querido John",
+        "description": "Um soldado americano em licença se apaixona por uma universitária. Quando ele precisa voltar ao serviço, as cartas que os dois trocam mantêm a chama do amor acesa. Assista o quanto quiser. Channing Tatum e Amanda Seyfried se relacionam à distância neste drama romântico baseado no livro de Nicholas Sparks.",
+        "photo": "https://i.imgur.com/4ig1lxz.jpg",
+        "genero": "romance",
+        "like": 5
+    },
+    {
+        "id": 187,
+        "name": "The fault in our stars",
+        "description": "Hazel Grace Lancaster e Augustus Waters são dois adolescentes que se conhecem em um grupo de apoio para pacientes com câncer. Por causa da doença, Hazel sempre descartou a ideia de se envolver amorosamente, mas acaba cedendo ao se apaixonar por Augustus. Juntos, eles viajam para Amsterdã, onde embarcam em uma jornada inesquecível.",
+        "photo": "https://i.imgur.com/6k87dbV.jpg",
+        "genero": "romance",
+        "like": 18
+    },
+    {
+        "id": 146,
+        "name": "Avatar - O caminho da água",
+        "description": "Quando uma antiga ameaça ressurge, Jake deve travar uma guerra difícil contra os humanos novamente. Mesmo com dificuldade, Jake acaba fazendo novos aliados – alguns dos quais já vivem entre os Na'vi e outros com novos avatares.",
+        "photo": "https://i.imgur.com/jPeQzLu.jpg",
+        "genero": "aventura",
+        "like": 25
+    },
+    {
+        "id": 754,
+        "name": "Minha mãe é uma peça - 3",
+        "description": "Dona Hermínia descobre que Marcelina está grávida e que Juliano vai casar. Sofrendo ao ver que os filhos estão formando suas próprias famílias, ela tenta se alegrar focando nos preparativos para o casamento.",
+        "photo": "https://i.imgur.com/SmF7itr.jpg",
+        "genero": "comedia",
+        "like": 11
+    },
+    {
+        "id": 756,
+        "name": "Minha mãe é uma peça",
+        "description": "Dona Hermínia, uma mulher de meia idade, aposentada e sozinha, tem como preocupação maior cuidar dos filhos. Mas agora que eles cresceram e não param de confrontá-la, a solução será dar um gelo e sair de casa. Sem um trabalho ou um companheiro, a dona de casa resolve desabafar com a tia idosa.",
+        "photo": "https://i.imgur.com/YSGRscu.jpg",
+        "genero": "comedia",
+        "like": 10
+    },
+    {
+        "id": 645,
+        "name": "Se beber, não case - parte 3",
+        "description": "Alan (Zach Galifianakis) está deprimido devido à morte de seu pai. Preocupado com o cunhado, Doug (Justin Bartha) sugere que ele vá até um lugar chamado New Horizons, que pode torná-lo um novo homem. Alan apenas aceita a sugestão após Phil (Bradley Cooper) e Stu (Ed Helms) concordarem em levá-lo, juntamente com Doug. É o início de uma nova viagem do quarteto, que acaba sendo interrompida bruscamente pelos capangas de Marshall (John Goodman). O malfeitor está atrás de Chow (Ken Jeong), que lhe aplicou um golpe milionário, e acredita que os amigos ainda possuam contato com ele. Após sequestrar Doug, Marshall dá a Alan, Stu e Phil um prazo para que encontrem Chow e devolvam as barras de ouro por ele roubadas, caso contrário todos morrerão. O que o trio não esperava era que, para reencontrar Chow, teria que ir até Tijuana, no México, e também em Las Vegas. ",
+        "photo": "https://i.imgur.com/qaBI1fv.jpg",
+        "genero": "comedia",
+        "like": 7
+    },
+    {
+        "id": 24,
+        "name": "Escape room",
+        "description": "O escape room é uma sala onde se joga o escape game. Nesse jogo, as pessoas são trancadas em uma sala por 60 minutos. Antes do tempo se acabar, elas precisam resolver enigmas usando pistas para solucionar o mistério e conseguir sair da sala.",
+        "photo": "https://i.imgur.com/OaAJlCN.jpg",
+        "genero": "terror",
+        "like": 1
+    },
+    {
+        "id": 76,
+        "name": "Pânico 6",
+        "description": "O terror acompanha os quatro sobreviventes do recente massacre de Ghostface: Sam, Tara, Chad e Mindy. O grupo decide se mudar de Woodsboro para recomeçar em uma nova cidade. No entanto, em pouco tempo, os quatro se tornam alvo de um novo serial killer mascarado.",
+        "photo": "https://i.imgur.com/EmXY4WS.jpg",
+        "genero": "terror",
+        "like": 3
+    },
+    {
+        "id": 116,
+        "name": "A médium",
+        "description": "Em A Médium, Uma equipe de documentários tailandesas viaja para a parte nordeste da Tailândia para documentar a vida cotidiana de um médium local, Nim, que é possuído pelo espírito de Bayan, uma divindade local que os aldeões adoram. Bayan é um deus ancestral e possui mulheres na família de Nim há gerações. A última na linha de sucessão foi a irmã de Nim, Noi. No entanto, Noi não queria ser médium e se voltou para o cristianismo. O espírito de Bayan mudou-se para Nim e está com ela desde então. Após a mulher fazer uma revelação horripilante sobre a família de sua irmã, sua sobrinha Mink, começa a exibir comportamentos estranhos. Nim está inicialmente convencido de que Bayan deseja que Mink seja o sucessor de Nim, mas Noi se recusa a deixar Nim realizar uma Cerimônia de Aceitação para mover o espírito de Bayan para sua filha. Mas, a deusa que eles tanto adoravam, talvez não seja o que sempre acharam. ",
+        "photo": "https://i.imgur.com/y7DGdB6.jpg",
+        "genero": "terror",
+        "like": 8
+    },
+    {
+        "id": 222,
+        "name": "Jumanji - Bem vindo à selva",
+        "description": "Spencer volta ao mundo fantástico de Jumanji. Os amigos Martha, Fridge e Bethany entram no jogo e tentam trazê-lo para casa. A turma descobre ainda mais obstáculos e perigos a serem superados.",
+        "photo": "https://i.imgur.com/XIsLIZ7.jpg",
+        "genero": "aventura",
+        "like": 9
+    },
+    {
+        "id": 201,
+        "name": "Uncharted",
+        "description": "Nathan Drake e seu parceiro canastrão Victor 'Sully' Sullivan embarcam em uma perigosa busca para encontrar o maior tesouro jamais encontrado. Enquanto isso, eles também rastreiam pistas que podem levar ao irmão perdido de Nathan.",
+        "photo": "https://i.imgur.com/ieS73Wg.jpg",
+        "genero": "aventura",
+        "like": 9
+    }
+]
